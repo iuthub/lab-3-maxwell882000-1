@@ -7,25 +7,23 @@ background-image: url("https://images.pexels.com/photos/235986/pexels-photo-2359
 
     border: 10px white solid;
     background-color: white;
-    margin: 0 102%;
+    margin: 0 10%;
   
 }
 .header {
-    float: right;
-    background-color: #A8F0F0;
-    margin-bottom: 5px;
-    width: 100%;
+    margin: 2px;
 }
 .header div {
-    margin-left: 10px;
-}
-.header h1 span{
     float: right;
-}
-.header h2 {
-    clear: both;
-    float: right;
+    background-color: #A8F0F0;
     margin: 5px;
+    padding-left: 73.5%;
+}
+
+
+.header h2 {
+  
+    float: right;
     font-size: 14pt;
 }
 
@@ -37,7 +35,9 @@ background-image: url("https://images.pexels.com/photos/235986/pexels-photo-2359
   
 }
 #left_bar{
-  
+  width: 30%;
+  background-color:#7ccaca ;
+  border-color: #599797;
 }
 .body h2 span {
     border-bottom: 4px #C2E9E9 dashed;
